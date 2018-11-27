@@ -1,0 +1,12 @@
+
+.idea/
+
+libs/
+
+bin-debug/
+
+.wing/
+
+bin-release/
+
+.DS_Store
